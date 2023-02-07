@@ -1,5 +1,5 @@
-('C:\\Users\\DaveDude\\Documents\\Passion Projects\\PyGame '
- 'Monopoly\\build\\main\\PYZ-00.pyz',
+('C:\\Users\\DaveDude\\Documents\\Passion '
+ 'Projects\\Monopoly-with-Friends\\build\\main\\PYZ-00.pyz',
  [('pkg_resources',
    'c:\\users\\davedude\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pkg_resources\\__init__.py',
    'PYMODULE'),
@@ -619,8 +619,8 @@
    'c:\\users\\davedude\\appdata\\local\\programs\\python\\python39\\lib\\_py_abc.py',
    'PYMODULE'),
   ('popup',
-   'C:\\Users\\DaveDude\\Documents\\Passion Projects\\PyGame '
-   'Monopoly\\popup.py',
+   'C:\\Users\\DaveDude\\Documents\\Passion '
+   'Projects\\Monopoly-with-Friends\\popup.py',
    'PYMODULE'),
   ('asyncio.windows_events',
    'c:\\users\\davedude\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\windows_events.py',
@@ -725,8 +725,8 @@
    'c:\\users\\davedude\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\runners.py',
    'PYMODULE'),
   ('boardscreen',
-   'C:\\Users\\DaveDude\\Documents\\Passion Projects\\PyGame '
-   'Monopoly\\boardscreen.py',
+   'C:\\Users\\DaveDude\\Documents\\Passion '
+   'Projects\\Monopoly-with-Friends\\boardscreen.py',
    'PYMODULE'),
   ('tkinter.font',
    'c:\\users\\davedude\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\font.py',
@@ -738,16 +738,16 @@
    'c:\\users\\davedude\\appdata\\local\\programs\\python\\python39\\lib\\tkinter\\constants.py',
    'PYMODULE'),
   ('property',
-   'C:\\Users\\DaveDude\\Documents\\Passion Projects\\PyGame '
-   'Monopoly\\property.py',
+   'C:\\Users\\DaveDude\\Documents\\Passion '
+   'Projects\\Monopoly-with-Friends\\property.py',
    'PYMODULE'),
   ('engine',
-   'C:\\Users\\DaveDude\\Documents\\Passion Projects\\PyGame '
-   'Monopoly\\engine.py',
+   'C:\\Users\\DaveDude\\Documents\\Passion '
+   'Projects\\Monopoly-with-Friends\\engine.py',
    'PYMODULE'),
   ('player',
-   'C:\\Users\\DaveDude\\Documents\\Passion Projects\\PyGame '
-   'Monopoly\\player.py',
+   'C:\\Users\\DaveDude\\Documents\\Passion '
+   'Projects\\Monopoly-with-Friends\\player.py',
    'PYMODULE'),
   ('random',
    'c:\\users\\davedude\\appdata\\local\\programs\\python\\python39\\lib\\random.py',
